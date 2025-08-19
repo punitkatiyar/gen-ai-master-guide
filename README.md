@@ -1,2 +1,8 @@
-# gen-ai-master-guide
-jan ai for full stack development
+# Gen AI Master Guide
+
+> javascript
+> typeScript
+> langchain
+> lang graph
+> open ai
+
